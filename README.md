@@ -1,6 +1,6 @@
 # Note taking app
-undefined
-  
+
+ https://note-i.herokuapp.com/
 ## Description
     We were tasked to make a note taker app for a small business owner
 
