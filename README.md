@@ -31,3 +31,4 @@ undefined
 ## Questions
 Please reach out to me with questions or comments. My GitHub user name is (https://github.com/Iramirez108). My email address is ivan.ramirez10208@gmail.com.
 
+![Note taker](https://user-images.githubusercontent.com/105662984/186824295-4539376c-45be-416c-ad4a-cbe5a1fc3f21.JPG)
